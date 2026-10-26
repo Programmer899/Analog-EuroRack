@@ -29,6 +29,9 @@ The main part is that the SSI2130 sits in the middle and acting as the main comp
 ![PCB 1](Images/Eurorack_15.png)
 ![PCB 1](Images/Eurorack_17.png)
 ![PCB 1](Images/Eurorack_6.png)
+
+The pin sockets on the image are going to be either a potentiometer or an audio socket connected via cables. Needed some sort of convenient through holes to solder the cables into when building.
+
 ![PCB 1](Images/Eurorack_18.png)
 ![PCB 1](Images/Eurorack_19.png)
 
